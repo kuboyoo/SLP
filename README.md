@@ -1,6 +1,8 @@
 # SLP
 Semantic Label Propagation GUI Application for Interactive Region Annotation (Master's thesis)
 
+
+
 ## Requirements
 * g++ (Ubuntu 8.3.0-6ubuntu1~18.10.1) 8.3.0
 * OpenCV3(3.4.6)
