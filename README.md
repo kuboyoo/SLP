@@ -1,7 +1,7 @@
 # SLP
 Semantic Label Propagation GUI Application for Interactive Region Annotation (Master's thesis)
 
-
+![gif](https://github.com/kuboyoo/SLP/blob/master/assets/demo_SLP.gif)
 
 ## Requirements
 * g++ (Ubuntu 8.3.0-6ubuntu1~18.10.1) 8.3.0
