@@ -10,6 +10,6 @@ Semantic Label Propagation GUI Application for Interactive Region Annotation (Ma
 * Qt5(QMake version 3.1 / Qt version 5.11.1) for GUI Application
 
 ## Usage
-`qmake`
-`make -j4`
-`./segImg`
+`qmake`  
+`make -j4`  
+`./segImg`  
