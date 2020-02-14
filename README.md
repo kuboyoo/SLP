@@ -9,7 +9,17 @@ Semantic Label Propagation GUI Application for Interactive Region Annotation (My
 * gnuplot (for and plot graph)
 * Qt5     (QMake version 3.1 / Qt version 5.11.1) for GUI Application
 
+
 ## Usage
+### Linux
+`cd src`  
 `qmake`  
 `make -j4`  
-`./segImg`  
+`./segImg`
+
+### Mac OS
+`cd src`
+add final line in segImg.pro `QMAKE_MACOSX_DEPLOYMENT_TARGET=10.9`  
+`qmake`  
+`make -j4`
+`./segImg/Contents/MacOS/segImg`
