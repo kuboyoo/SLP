@@ -1,5 +1,5 @@
 # SLP
-Semantic Label Propagation GUI Application for Interactive Region Annotation (My master's thesis)
+Semantic Label Propagation GUI Application for Interactive Region Annotation (My master's thesis in 2020)
 
 ![gif](https://github.com/kuboyoo/SLP/blob/master/assets/demo_SLP.gif)
 
