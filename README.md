@@ -1,5 +1,5 @@
 # SLP
-Semantic Label Propagation GUI Application for Interactive Region Annotation (My master's thesis in 2020)
+Semantic Label Propagation GUI Application for Interactive Region Annotation
 
 ![gif](https://github.com/kuboyoo/SLP/blob/master/assets/demo_SLP.gif)
 
@@ -32,3 +32,6 @@ make -j4
 
 ## Lisense
 This software includes the work that is distributed in the Apache License 2.0
+
+## Contact
+If you want to use this tool, please mail to [kuboyu@mineo.jp](mailto:kuboyu@mineo.jp)
